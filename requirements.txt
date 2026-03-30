@@ -1,0 +1,12 @@
+fastapi==0.109.0
+uvicorn==0.27.0
+python-multipart==0.0.9
+httpx==0.26.0
+pydantic==2.5.3
+pillow==10.2.0
+python-dotenv==1.0.0
+
+# YOLO11 (optional — install if you have trained weights)
+# ultralytics==8.1.0
+# torch==2.1.2
+# torchvision==0.16.2
